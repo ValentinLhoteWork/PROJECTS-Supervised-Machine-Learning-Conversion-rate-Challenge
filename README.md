@@ -30,7 +30,7 @@ The project can be cut into four steps :
     Part 3 : Once you're satisfied with your model's score, you can use it to make some predictions with the file data_test.csv. You will have to dump the predictions into a .csv file that will be sent to Kaggle (actually, to your teacher/TA 🤓). You can make as many submissions as you want, feel free to try different models !
     Part 4 : Take some time to analyze your best model's parameters. Are there any lever for action that would help to improve the newsletter's conversion rate ? What recommendations would you make to the team ?
 
-Deliverable 📬
+### Deliverable 📬
 
 To complete this project, i  should:
 
