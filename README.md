@@ -4,7 +4,7 @@
 <img width="252" height="200" alt="image" src="https://github.com/user-attachments/assets/4109aa78-af10-4ed2-888a-66b31bcb98c7" />
 
 
-In this project, i will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end i'll have to submit my model's predictions to my teacher/TA, so my model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
+In this project, i will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. I will be able to work with jupyter notebooks as usual, but in the end i'll have to submit the model's predictions to my teacher/TA, so my model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
 Description of a machine learning challenge 🚴🚴
 
     In machine learning challenges, the dataset is always separated into to files :
