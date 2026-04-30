@@ -13,7 +13,7 @@ Description of a machine learning challenge 🚴🚴
     Your model's predictions will be compared to the true labels and releases a leaderboard where the scores of all the teams around the world are stored
     All the participants are informed about the metric that will be used to assess the scores. You have to make sure you're using the same metric to evaluate your train/test performances !
 
-Company's Description 📇
+### Company's Description 📇
 
 www.datascienceweekly.org is a famous newsletter curated by independent data scientists. Anyone can register his/her e-mail address on this website to receive weekly news about data science and its applications !
 Project 🚧
