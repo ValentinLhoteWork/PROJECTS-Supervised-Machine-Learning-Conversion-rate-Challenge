@@ -4,7 +4,7 @@
 <img width="252" height="200" alt="image" src="https://github.com/user-attachments/assets/4109aa78-af10-4ed2-888a-66b31bcb98c7" />
 
 
-In this project, you will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end you'll have to submit your model's predictions to your teacher/TA, so your model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
+In this project, i will participate to a machine learning competition like the ones that are organized by https://www.kaggle.com/. You will be able to work with jupyter notebooks as usual, but in the end you'll have to submit your model's predictions to your teacher/TA, so your model's performances will be evaluated in an independent way. The scores achieved by the different teams will be stored into a leaderboard 🏅🏅
 Description of a machine learning challenge 🚴🚴
 
     In machine learning challenges, the dataset is always separated into to files :
@@ -32,7 +32,7 @@ The project can be cut into four steps :
 
 Deliverable 📬
 
-To complete this project, your team should:
+To complete this project, i  should:
 
     Create some relevant figures for EDA
     Train at least one model that predicts the conversions and evaluate its performances (f1, confusion matrices)
